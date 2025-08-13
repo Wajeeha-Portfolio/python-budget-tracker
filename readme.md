@@ -26,24 +26,9 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/BudgetTrack.git
+    [git clone https://github.com/yourusername/BudgetTrack.git](https://github.com/Wajeeha-Portfolio/python-budget-tracker.git)
     cd BudgetTrack
     ```
-
-2. **Create and activate a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    # On Windows:
-    venv\Scripts\activate
-    # On macOS/Linux:
-    source venv/bin/activate
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ---
 
 ## How to Run the Project
@@ -106,12 +91,6 @@ BudgetTrack/
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
